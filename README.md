@@ -37,4 +37,3 @@ Por isso, pode haver variações dependendo da resolução do monitor ou posiç�
 
 ---
 
-## 📂 Estrutura do projeto
